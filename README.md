@@ -13,8 +13,9 @@
 <!-- footer --!>
 <p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
 <p align="center">
-
-    <a id="GitHub" href="https://github.com/bearlike/"><img width="27px" src="https://cdn.thekrishna.in/img/icon/gh-profile/gh.png" alt="Krishnakanth Alagiri - GitHub" /></a>&nbsp;&nbsp;         
+    <a id="GitHub" href="https://github.com/bearlike/">
+    <img width="27px" src="https://cdn.thekrishna.in/img/icon/gh-profile/gh.png" alt="Krishnakanth Alagiri - GitHub" />
+    </a>&nbsp;&nbsp;     
     <a id="LinkedIn" href="https://linkedin.com/in/krishnaalagiri/"><img width="27px" src="https://cdn.thekrishna.in/img/icon/gh-profile/linkedin.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> &nbsp;&nbsp;
     <a id="Website" href="https://thekrishna.in/"><img width="27px" src="https://cdn.thekrishna.in/img/icon/gh-profile/web.png" alt="Krishnakanth Alagiri - Website" /></a>&nbsp;&nbsp;
     <a id="DEV" href="https://dev.to/bearlike/"><img width="27px" src="https://cdn.thekrishna.in/img/icon/gh-profile/dev.png" alt="Krishnakanth Alagiri - DEV" /></a>&nbsp;&nbsp;
