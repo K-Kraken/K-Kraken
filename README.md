@@ -8,7 +8,7 @@
 
 
 <h2 align="center">Things I know and use 🌱</h2>
-<p align="center"><img alt="Things_I_know_and_use" width="550px" src="https://imgur.com/LF8Axf8.png" /></p>
+<p align="center"><a href="https://thekrishna.in/#skills"><img alt="Things_I_know_and_use" width="500px" src="https://imgur.com/LF8Axf8.png" /></a></p>
 <h2 align="center"></h2>
 <!-- footer --!>
 <p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
