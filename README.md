@@ -11,7 +11,7 @@
 <p align="center"><a href="https://thekrishna.in/#skills"><img alt="Things_I_know_and_use" width="500px" src="https://imgur.com/LF8Axf8.png" /></a></p>
 <h2 align="center"></h2>
 <!-- footer --!>
-<p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
+<!--<p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>--!>
 <p align="center">
     <a id="GitHub" href="https://github.com/bearlike/">
     <img width="27px" src="https://cdn.thekrishna.in/img/icon/gh-profile/gh.png" alt="Krishnakanth Alagiri - GitHub" />
